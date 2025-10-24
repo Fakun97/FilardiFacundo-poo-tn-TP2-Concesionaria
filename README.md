@@ -1,1 +1,1 @@
-# FilardiFacundo-poo-tn-TP2-Concesionaria
+# Proyecto hecho en VSC, creado por la web Spring Initializr, con anotaciones de Lombok instaladas.
